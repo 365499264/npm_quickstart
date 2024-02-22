@@ -1,6 +1,8 @@
 {
-  "private": true,
+	  "name": "web3_azra_hopeful",
+  "private": false,
   "packageManager": "pnpm",
+  "version": "1.0.0",
   "scripts": {
     "clean": "rm -rf node_modules && rm -rf packages/**/node_modules",
     "prepare": "husky install",
